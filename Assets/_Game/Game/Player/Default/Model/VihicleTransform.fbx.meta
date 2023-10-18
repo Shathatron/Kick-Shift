@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 1cc919e4c9080ef49b526a6e7de15ff7
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -1967504385363246608
+    second: CarBodyMesh.004|Example Sheet_001Action
+  - first:
+      74: 4746764823976662975
+    second: CarBodyMesh.004|Example Sheet_002.001Action
+  - first:
+      74: 708740831554705607
+    second: CarBodyMesh.004|Example Sheet_002Action
+  - first:
+      74: -1082119329427239022
+    second: CarBodyMesh.004|Example Sheet_008Action
+  - first:
+      74: -8688492309247500933
+    second: CarBodyMesh.004|Example Sheet_009Action
+  - first:
+      74: -7551283871891200591
+    second: CarBodyMesh.004|Example Sheet_013Action
+  - first:
+      74: 3165992451055197940
+    second: CarBodyMesh.004|Example Sheet_027Action
+  - first:
+      74: 5622321104098975895
+    second: CarBodyMesh.004|Example Sheet_028Action
+  - first:
+      74: -6311466010478617032
+    second: CarBodyMesh.004|Example Sheet_028Action.001
+  - first:
+      74: 2306042532348320121
+    second: CarBodyMesh.004|Example Sheet_028Action.002
+  - first:
+      74: 5042481233677175920
+    second: CarBodyMesh.004|Example Sheet_031Action
+  - first:
+      74: -8568168898174504827
+    second: CarBodyMesh.004|Example Sheet_037Action
+  - first:
+      74: -2644409798095499878
+    second: CarBodyMesh.004|Example Sheet_039Action
+  - first:
+      74: 1785238703650517513
+    second: CarBodyMesh.004|Example Sheet_045Action.001
+  - first:
+      74: -6192891637636755367
+    second: CarBodyMesh.004|Example Sheet_047Action
+  - first:
+      74: 2534399862919233846
+    second: CarBodyMesh.004|Example Sheet_047Action.001
+  - first:
+      74: 2077061464828109775
+    second: CarBodyMesh.004|Example Sheet_047Action.002
+  - first:
+      74: 4427484428851310107
+    second: CarBodyMesh.004|Example Sheet_047Action.003
+  - first:
+      74: 2719713858133171759
+    second: CarBodyMesh.004|Example Sheet_047Action.005
+  - first:
+      74: -3473142646764232800
+    second: CarBodyMesh.004|Example Sheet_047Action.006
+  - first:
+      74: 2188620874394378139
+    second: CarBodyMesh.004|Example Sheet_047Action.007
+  - first:
+      74: -8781596594109266422
+    second: CarBodyMesh.004|Example Sheet_047Action.008
+  - first:
+      74: -350660935094033900
+    second: CarBodyMesh.004|Example Sheet_047Action.009
+  - first:
+      74: -2278452800761556949
+    second: CarBodyMesh.004|Example Sheet_047Action.010
+  - first:
+      74: 1283706067952520124
+    second: CarBodyMesh.004|Example Sheet_049Action
+  - first:
+      74: -1513334509798812802
+    second: CarBodyMesh.004|Example Sheet_052.001Action
+  - first:
+      74: 150893655920547576
+    second: CarBodyMesh.004|Example Sheet_052Action
+  - first:
+      74: 534968552080021944
+    second: CarBodyMesh.004|Example Sheet_059Action
+  - first:
+      74: 1929231089638856592
+    second: CarBodyMesh.004|Examples_006Action
+  - first:
+      74: 1673188731216127066
+    second: CarBodyMesh.004|Examples_006Action.001
+  - first:
+      74: 2895859733571244820
+    second: CarBodyMesh.003|Example Sheet_001Action
+  - first:
+      74: -4678091387353284975
+    second: CarBodyMesh.003|Example Sheet_002.001Action
+  - first:
+      74: -116327968797770523
+    second: CarBodyMesh.003|Example Sheet_002Action
+  - first:
+      74: -8444169956732167288
+    second: CarBodyMesh.003|Example Sheet_008Action
+  - first:
+      74: -8415268818153590773
+    second: CarBodyMesh.003|Example Sheet_009Action
+  - first:
+      74: -2512387597838973931
+    second: CarBodyMesh.003|Example Sheet_013Action
+  - first:
+      74: 8770018854435107261
+    second: CarBodyMesh.003|Example Sheet_027Action
+  - first:
+      74: 1899486689216274225
+    second: CarBodyMesh.003|Example Sheet_028Action
+  - first:
+      74: 2404886475011096920
+    second: CarBodyMesh.003|Example Sheet_028Action.001
+  - first:
+      74: -8320218846790166392
+    second: CarBodyMesh.003|Example Sheet_028Action.002
+  - first:
+      74: -5335661399015076565
+    second: CarBodyMesh.003|Example Sheet_031Action
+  - first:
+      74: -3149061971011928782
+    second: CarBodyMesh.003|Example Sheet_037Action
+  - first:
+      74: 917794757146048955
+    second: CarBodyMesh.003|Example Sheet_039Action
+  - first:
+      74: -8127885995623256261
+    second: CarBodyMesh.003|Example Sheet_045Action.001
+  - first:
+      74: 213428559472880170
+    second: CarBodyMesh.003|Example Sheet_047Action
+  - first:
+      74: 7493688041905975914
+    second: CarBodyMesh.003|Example Sheet_047Action.001
+  - first:
+      74: 2612456397864288883
+    second: CarBodyMesh.003|Example Sheet_047Action.002
+  - first:
+      74: -1758562500122171804
+    second: CarBodyMesh.003|Example Sheet_047Action.003
+  - first:
+      74: -7752822261516828910
+    second: CarBodyMesh.003|Example Sheet_047Action.005
+  - first:
+      74: -3676346775177756825
+    second: CarBodyMesh.003|Example Sheet_047Action.006
+  - first:
+      74: 8240238186990250595
+    second: CarBodyMesh.003|Example Sheet_047Action.007
+  - first:
+      74: -942605100609812441
+    second: CarBodyMesh.003|Example Sheet_047Action.008
+  - first:
+      74: 1445854869514855976
+    second: CarBodyMesh.003|Example Sheet_047Action.009
+  - first:
+      74: -656351482315146588
+    second: CarBodyMesh.003|Example Sheet_047Action.010
+  - first:
+      74: 1623433440709436599
+    second: CarBodyMesh.003|Example Sheet_049Action
+  - first:
+      74: -995160403028258035
+    second: CarBodyMesh.003|Example Sheet_052.001Action
+  - first:
+      74: 787518473268567332
+    second: CarBodyMesh.003|Example Sheet_052Action
+  - first:
+      74: 2095695474386073459
+    second: CarBodyMesh.003|Example Sheet_059Action
+  - first:
+      74: -1562697664203111431
+    second: CarBodyMesh.003|Examples_006Action
+  - first:
+      74: 7179099679632704605
+    second: CarBodyMesh.003|Examples_006Action.001
+  - first:
+      74: -7518117937723576469
+    second: CarBodyMesh.006|Example Sheet_001Action
+  - first:
+      74: -7184959237655853018
+    second: CarBodyMesh.006|Example Sheet_002.001Action
+  - first:
+      74: -8458659579370079933
+    second: CarBodyMesh.006|Example Sheet_002Action
+  - first:
+      74: 5153618996249373865
+    second: CarBodyMesh.006|Example Sheet_008Action
+  - first:
+      74: -5690469015991258057
+    second: CarBodyMesh.006|Example Sheet_009Action
+  - first:
+      74: 8902702131266738472
+    second: CarBodyMesh.006|Example Sheet_013Action
+  - first:
+      74: -8113447828252068285
+    second: CarBodyMesh.006|Example Sheet_027Action
+  - first:
+      74: 9049039731535374004
+    second: CarBodyMesh.006|Example Sheet_028Action
+  - first:
+      74: 6100495152616692663
+    second: CarBodyMesh.006|Example Sheet_028Action.001
+  - first:
+      74: -5209941399768199657
+    second: CarBodyMesh.006|Example Sheet_028Action.002
+  - first:
+      74: -5346504780926002666
+    second: CarBodyMesh.006|Example Sheet_031Action
+  - first:
+      74: 1743968521086892856
+    second: CarBodyMesh.006|Example Sheet_037Action
+  - first:
+      74: 3957698542007392808
+    second: CarBodyMesh.006|Example Sheet_039Action
+  - first:
+      74: 8233473318455360153
+    second: CarBodyMesh.006|Example Sheet_045Action.001
+  - first:
+      74: -3212908506347665086
+    second: CarBodyMesh.006|Example Sheet_047Action
+  - first:
+      74: -8330844546207587164
+    second: CarBodyMesh.006|Example Sheet_047Action.001
+  - first:
+      74: 7593774589964938821
+    second: CarBodyMesh.006|Example Sheet_047Action.002
+  - first:
+      74: -3093163014008342894
+    second: CarBodyMesh.006|Example Sheet_047Action.003
+  - first:
+      74: 5971038675379042281
+    second: CarBodyMesh.006|Example Sheet_047Action.005
+  - first:
+      74: 8470003344588422394
+    second: CarBodyMesh.006|Example Sheet_047Action.006
+  - first:
+      74: -1857698631025122316
+    second: CarBodyMesh.006|Example Sheet_047Action.007
+  - first:
+      74: 3830984424458110873
+    second: CarBodyMesh.006|Example Sheet_047Action.008
+  - first:
+      74: -8918260735448928880
+    second: CarBodyMesh.006|Example Sheet_047Action.009
+  - first:
+      74: -489656384187978973
+    second: CarBodyMesh.006|Example Sheet_047Action.010
+  - first:
+      74: -8024635475187461495
+    second: CarBodyMesh.006|Example Sheet_049Action
+  - first:
+      74: -3402472976971375296
+    second: CarBodyMesh.006|Example Sheet_052.001Action
+  - first:
+      74: -459428423925697434
+    second: CarBodyMesh.006|Example Sheet_052Action
+  - first:
+      74: 7242439992410891896
+    second: CarBodyMesh.006|Example Sheet_059Action
+  - first:
+      74: -3030399497714592029
+    second: CarBodyMesh.006|Examples_006Action
+  - first:
+      74: -6069219647650193695
+    second: CarBodyMesh.006|Examples_006Action.001
+  - first:
+      74: 5970806065527289994
+    second: CarBodyMesh.013|Example Sheet_001Action
+  - first:
+      74: 8384157761115084104
+    second: CarBodyMesh.013|Example Sheet_002.001Action
+  - first:
+      74: -3420273172320805526
+    second: CarBodyMesh.013|Example Sheet_002Action
+  - first:
+      74: 2968696153165298914
+    second: CarBodyMesh.013|Example Sheet_008Action
+  - first:
+      74: 6904907301111867467
+    second: CarBodyMesh.013|Example Sheet_009Action
+  - first:
+      74: -696224251993429794
+    second: CarBodyMesh.013|Example Sheet_013Action
+  - first:
+      74: -4793251678868636937
+    second: CarBodyMesh.013|Example Sheet_027Action
+  - first:
+      74: -4753428503128587162
+    second: CarBodyMesh.013|Example Sheet_028Action
+  - first:
+      74: 3771886030324128004
+    second: CarBodyMesh.013|Example Sheet_028Action.001
+  - first:
+      74: -6139360633669592293
+    second: CarBodyMesh.013|Example Sheet_028Action.002
+  - first:
+      74: -9145317582336853062
+    second: CarBodyMesh.013|Example Sheet_031Action
+  - first:
+      74: 1989734021809146996
+    second: CarBodyMesh.013|Example Sheet_037Action
+  - first:
+      74: -3497548403214176490
+    second: CarBodyMesh.013|Example Sheet_039Action
+  - first:
+      74: 3862163176030689630
+    second: CarBodyMesh.013|Example Sheet_045Action.001
+  - first:
+      74: 8378261375365113053
+    second: CarBodyMesh.013|Example Sheet_047Action
+  - first:
+      74: -8885088166003471602
+    second: CarBodyMesh.013|Example Sheet_047Action.001
+  - first:
+      74: -1577749641317385218
+    second: CarBodyMesh.013|Example Sheet_047Action.002
+  - first:
+      74: 4572025877349754643
+    second: CarBodyMesh.013|Example Sheet_047Action.003
+  - first:
+      74: -7473045004846660898
+    second: CarBodyMesh.013|Example Sheet_047Action.005
+  - first:
+      74: 4277960150787175288
+    second: CarBodyMesh.013|Example Sheet_047Action.006
+  - first:
+      74: 4368087553584091610
+    second: CarBodyMesh.013|Example Sheet_047Action.007
+  - first:
+      74: 217804089599019034
+    second: CarBodyMesh.013|Example Sheet_047Action.008
+  - first:
+      74: -7323661989454609722
+    second: CarBodyMesh.013|Example Sheet_047Action.009
+  - first:
+      74: 6655799699321459975
+    second: CarBodyMesh.013|Example Sheet_047Action.010
+  - first:
+      74: 2543877406153285026
+    second: CarBodyMesh.013|Example Sheet_049Action
+  - first:
+      74: 8278400507753301811
+    second: CarBodyMesh.013|Example Sheet_052.001Action
+  - first:
+      74: -3043700976919554152
+    second: CarBodyMesh.013|Example Sheet_052Action
+  - first:
+      74: -8821274911302193171
+    second: CarBodyMesh.013|Example Sheet_059Action
+  - first:
+      74: -6096448539454694065
+    second: CarBodyMesh.013|Examples_006Action
+  - first:
+      74: 8097965829542651484
+    second: CarBodyMesh.013|Examples_006Action.001
+  - first:
+      74: 5109990105845366437
+    second: CarBodyMesh.014|Example Sheet_001Action
+  - first:
+      74: 4545216371791499148
+    second: CarBodyMesh.014|Example Sheet_002.001Action
+  - first:
+      74: 1265042314607036834
+    second: CarBodyMesh.014|Example Sheet_002Action
+  - first:
+      74: -2939041421521426350
+    second: CarBodyMesh.014|Example Sheet_008Action
+  - first:
+      74: -4545040880547579909
+    second: CarBodyMesh.014|Example Sheet_009Action
+  - first:
+      74: 8054378014738122579
+    second: CarBodyMesh.014|Example Sheet_013Action
+  - first:
+      74: 6929131698927272158
+    second: CarBodyMesh.014|Example Sheet_027Action
+  - first:
+      74: 6305605178566006365
+    second: CarBodyMesh.014|Example Sheet_028Action
+  - first:
+      74: -7327584161218257112
+    second: CarBodyMesh.014|Example Sheet_028Action.001
+  - first:
+      74: 7041648995710522057
+    second: CarBodyMesh.014|Example Sheet_028Action.002
+  - first:
+      74: -7542406880244894154
+    second: CarBodyMesh.014|Example Sheet_031Action
+  - first:
+      74: 6656491191238280682
+    second: CarBodyMesh.014|Example Sheet_037Action
+  - first:
+      74: -4605135531599803199
+    second: CarBodyMesh.014|Example Sheet_039Action
+  - first:
+      74: 2366619765606808511
+    second: CarBodyMesh.014|Example Sheet_045Action.001
+  - first:
+      74: -424675272946907166
+    second: CarBodyMesh.014|Example Sheet_047Action
+  - first:
+      74: -232719551116521985
+    second: CarBodyMesh.014|Example Sheet_047Action.001
+  - first:
+      74: -6536277467480167335
+    second: CarBodyMesh.014|Example Sheet_047Action.002
+  - first:
+      74: 936878100820014973
+    second: CarBodyMesh.014|Example Sheet_047Action.003
+  - first:
+      74: 1691508217321505455
+    second: CarBodyMesh.014|Example Sheet_047Action.005
+  - first:
+      74: -4490723734666524400
+    second: CarBodyMesh.014|Example Sheet_047Action.006
+  - first:
+      74: -5539255350617915656
+    second: CarBodyMesh.014|Example Sheet_047Action.007
+  - first:
+      74: 5309198307330526986
+    second: CarBodyMesh.014|Example Sheet_047Action.008
+  - first:
+      74: -2036967154324661178
+    second: CarBodyMesh.014|Example Sheet_047Action.009
+  - first:
+      74: -5446244879130410937
+    second: CarBodyMesh.014|Example Sheet_047Action.010
+  - first:
+      74: 5474551456208092494
+    second: CarBodyMesh.014|Example Sheet_049Action
+  - first:
+      74: 3790846706464313289
+    second: CarBodyMesh.014|Example Sheet_052.001Action
+  - first:
+      74: 9202776470426247886
+    second: CarBodyMesh.014|Example Sheet_052Action
+  - first:
+      74: 3537165629367921143
+    second: CarBodyMesh.014|Example Sheet_059Action
+  - first:
+      74: -4376353001032224209
+    second: CarBodyMesh.014|Examples_006Action
+  - first:
+      74: -469979483611355329
+    second: CarBodyMesh.014|Examples_006Action.001
+  - first:
+      74: -6274287877788240215
+    second: CarBodyMesh.005|Example Sheet_001Action
+  - first:
+      74: -9160870997895715054
+    second: CarBodyMesh.005|Example Sheet_002.001Action
+  - first:
+      74: 2849001782796598180
+    second: CarBodyMesh.005|Example Sheet_002Action
+  - first:
+      74: -2425665286781165847
+    second: CarBodyMesh.005|Example Sheet_008Action
+  - first:
+      74: -5280781090536582547
+    second: CarBodyMesh.005|Example Sheet_009Action
+  - first:
+      74: -4193647816497973151
+    second: CarBodyMesh.005|Example Sheet_013Action
+  - first:
+      74: -3880544446925959699
+    second: CarBodyMesh.005|Example Sheet_027Action
+  - first:
+      74: -6751721914755400580
+    second: CarBodyMesh.005|Example Sheet_028Action
+  - first:
+      74: 5039223296424916804
+    second: CarBodyMesh.005|Example Sheet_028Action.001
+  - first:
+      74: -8962901285374635612
+    second: CarBodyMesh.005|Example Sheet_028Action.002
+  - first:
+      74: -6589764067125078485
+    second: CarBodyMesh.005|Example Sheet_031Action
+  - first:
+      74: 379829058736997981
+    second: CarBodyMesh.005|Example Sheet_037Action
+  - first:
+      74: 2225164911685742256
+    second: CarBodyMesh.005|Example Sheet_039Action
+  - first:
+      74: 4331593848365974647
+    second: CarBodyMesh.005|Example Sheet_045Action.001
+  - first:
+      74: 7921439900056173806
+    second: CarBodyMesh.005|Example Sheet_047Action
+  - first:
+      74: 1322732146094911916
+    second: CarBodyMesh.005|Example Sheet_047Action.001
+  - first:
+      74: -5154226318180456393
+    second: CarBodyMesh.005|Example Sheet_047Action.002
+  - first:
+      74: 5196828013268833856
+    second: CarBodyMesh.005|Example Sheet_047Action.003
+  - first:
+      74: -6073152511402708330
+    second: CarBodyMesh.005|Example Sheet_047Action.005
+  - first:
+      74: -5137977776761125252
+    second: CarBodyMesh.005|Example Sheet_047Action.006
+  - first:
+      74: -5760259391944418723
+    second: CarBodyMesh.005|Example Sheet_047Action.007
+  - first:
+      74: -6232268654655264969
+    second: CarBodyMesh.005|Example Sheet_047Action.008
+  - first:
+      74: 7703847746064295597
+    second: CarBodyMesh.005|Example Sheet_047Action.009
+  - first:
+      74: -5508856471229030239
+    second: CarBodyMesh.005|Example Sheet_047Action.010
+  - first:
+      74: -8249846350334843485
+    second: CarBodyMesh.005|Example Sheet_049Action
+  - first:
+      74: 4967878820119169826
+    second: CarBodyMesh.005|Example Sheet_052.001Action
+  - first:
+      74: -4677267356348093367
+    second: CarBodyMesh.005|Example Sheet_052Action
+  - first:
+      74: 8463109609489204002
+    second: CarBodyMesh.005|Example Sheet_059Action
+  - first:
+      74: 3404297228186207688
+    second: CarBodyMesh.005|Examples_006Action
+  - first:
+      74: 2260514925111417972
+    second: CarBodyMesh.005|Examples_006Action.001
+  - first:
+      74: -5649845137311922074
+    second: CarBodyMesh.008|Example Sheet_001Action
+  - first:
+      74: -5641328126840262354
+    second: CarBodyMesh.008|Example Sheet_002.001Action
+  - first:
+      74: -7874971221850329207
+    second: CarBodyMesh.008|Example Sheet_002Action
+  - first:
+      74: -247753529888286728
+    second: CarBodyMesh.008|Example Sheet_008Action
+  - first:
+      74: -6654217283732587241
+    second: CarBodyMesh.008|Example Sheet_009Action
+  - first:
+      74: -3194492808034946611
+    second: CarBodyMesh.008|Example Sheet_013Action
+  - first:
+      74: -4852575931686142852
+    second: CarBodyMesh.008|Example Sheet_027Action
+  - first:
+      74: 7686403432092318640
+    second: CarBodyMesh.008|Example Sheet_028Action
+  - first:
+      74: -2242309655687434256
+    second: CarBodyMesh.008|Example Sheet_028Action.001
+  - first:
+      74: -4878425610106791171
+    second: CarBodyMesh.008|Example Sheet_028Action.002
+  - first:
+      74: 7031713360967497170
+    second: CarBodyMesh.008|Example Sheet_031Action
+  - first:
+      74: -8200799644329316081
+    second: CarBodyMesh.008|Example Sheet_037Action
+  - first:
+      74: 7504438104084456220
+    second: CarBodyMesh.008|Example Sheet_039Action
+  - first:
+      74: -6044903233764489307
+    second: CarBodyMesh.008|Example Sheet_045Action.001
+  - first:
+      74: 4602808903755877362
+    second: CarBodyMesh.008|Example Sheet_047Action
+  - first:
+      74: 3475388002972520776
+    second: CarBodyMesh.008|Example Sheet_047Action.001
+  - first:
+      74: -3095115715821370738
+    second: CarBodyMesh.008|Example Sheet_047Action.002
+  - first:
+      74: -2527913814265536555
+    second: CarBodyMesh.008|Example Sheet_047Action.003
+  - first:
+      74: 701303206307266491
+    second: CarBodyMesh.008|Example Sheet_047Action.005
+  - first:
+      74: -6668153841186052856
+    second: CarBodyMesh.008|Example Sheet_047Action.006
+  - first:
+      74: -5250146284179309117
+    second: CarBodyMesh.008|Example Sheet_047Action.007
+  - first:
+      74: 9130779728394868441
+    second: CarBodyMesh.008|Example Sheet_047Action.008
+  - first:
+      74: 9172401850993132236
+    second: CarBodyMesh.008|Example Sheet_047Action.009
+  - first:
+      74: 1046456917570256077
+    second: CarBodyMesh.008|Example Sheet_047Action.010
+  - first:
+      74: -7990602012653669682
+    second: CarBodyMesh.008|Example Sheet_049Action
+  - first:
+      74: 3673732573587290445
+    second: CarBodyMesh.008|Example Sheet_052.001Action
+  - first:
+      74: 970342749566608152
+    second: CarBodyMesh.008|Example Sheet_052Action
+  - first:
+      74: 748694070769835445
+    second: CarBodyMesh.008|Example Sheet_059Action
+  - first:
+      74: 6166720218623539938
+    second: CarBodyMesh.008|Examples_006Action
+  - first:
+      74: 8148681659638900890
+    second: CarBodyMesh.008|Examples_006Action.001
+  - first:
+      74: 3223358346558955222
+    second: CarBodyMesh.007|Example Sheet_001Action
+  - first:
+      74: -2253597819924308936
+    second: CarBodyMesh.007|Example Sheet_002.001Action
+  - first:
+      74: 540020130679254774
+    second: CarBodyMesh.007|Example Sheet_002Action
+  - first:
+      74: -7480711004386608884
+    second: CarBodyMesh.007|Example Sheet_008Action
+  - first:
+      74: 384990436128324751
+    second: CarBodyMesh.007|Example Sheet_009Action
+  - first:
+      74: -8527176077553681282
+    second: CarBodyMesh.007|Example Sheet_013Action
+  - first:
+      74: 6368869948763085383
+    second: CarBodyMesh.007|Example Sheet_027Action
+  - first:
+      74: -5423024516653411847
+    second: CarBodyMesh.007|Example Sheet_028Action
+  - first:
+      74: 3476851492356905388
+    second: CarBodyMesh.007|Example Sheet_028Action.001
+  - first:
+      74: -7073816990347023701
+    second: CarBodyMesh.007|Example Sheet_028Action.002
+  - first:
+      74: -5034963214233879379
+    second: CarBodyMesh.007|Example Sheet_031Action
+  - first:
+      74: -6783009300829307865
+    second: CarBodyMesh.007|Example Sheet_037Action
+  - first:
+      74: 2914995952033345156
+    second: CarBodyMesh.007|Example Sheet_039Action
+  - first:
+      74: 7905967498786585368
+    second: CarBodyMesh.007|Example Sheet_045Action.001
+  - first:
+      74: -4854256016215216828
+    second: CarBodyMesh.007|Example Sheet_047Action
+  - first:
+      74: -367372747693228756
+    second: CarBodyMesh.007|Example Sheet_047Action.001
+  - first:
+      74: -5514122178059366839
+    second: CarBodyMesh.007|Example Sheet_047Action.002
+  - first:
+      74: -2431485727320502731
+    second: CarBodyMesh.007|Example Sheet_047Action.003
+  - first:
+      74: 2241214054244923451
+    second: CarBodyMesh.007|Example Sheet_047Action.005
+  - first:
+      74: 8365072689679599661
+    second: CarBodyMesh.007|Example Sheet_047Action.006
+  - first:
+      74: -868107084674365788
+    second: CarBodyMesh.007|Example Sheet_047Action.007
+  - first:
+      74: -6612250158542680491
+    second: CarBodyMesh.007|Example Sheet_047Action.008
+  - first:
+      74: -4738719358494445426
+    second: CarBodyMesh.007|Example Sheet_047Action.009
+  - first:
+      74: 2127939901553565652
+    second: CarBodyMesh.007|Example Sheet_047Action.010
+  - first:
+      74: 3202110577860951490
+    second: CarBodyMesh.007|Example Sheet_049Action
+  - first:
+      74: -8252036314949353256
+    second: CarBodyMesh.007|Example Sheet_052.001Action
+  - first:
+      74: 1892426060195641161
+    second: CarBodyMesh.007|Example Sheet_052Action
+  - first:
+      74: 3120092277779165418
+    second: CarBodyMesh.007|Example Sheet_059Action
+  - first:
+      74: 5161791739487962537
+    second: CarBodyMesh.007|Examples_006Action
+  - first:
+      74: -3732682894136776025
+    second: CarBodyMesh.007|Examples_006Action.001
+  - first:
+      74: 8115874044418606078
+    second: CarBodyMesh.009|Example Sheet_001Action
+  - first:
+      74: -616167417707843873
+    second: CarBodyMesh.009|Example Sheet_002.001Action
+  - first:
+      74: -1716056181247271800
+    second: CarBodyMesh.009|Example Sheet_002Action
+  - first:
+      74: 7890314914892964866
+    second: CarBodyMesh.009|Example Sheet_008Action
+  - first:
+      74: 6893499338048785735
+    second: CarBodyMesh.009|Example Sheet_009Action
+  - first:
+      74: -6439905103811058458
+    second: CarBodyMesh.009|Example Sheet_013Action
+  - first:
+      74: -2297291178799781551
+    second: CarBodyMesh.009|Example Sheet_027Action
+  - first:
+      74: -273912213242913504
+    second: CarBodyMesh.009|Example Sheet_028Action
+  - first:
+      74: 5654721826746167383
+    second: CarBodyMesh.009|Example Sheet_028Action.001
+  - first:
+      74: 2438858460687724749
+    second: CarBodyMesh.009|Example Sheet_028Action.002
+  - first:
+      74: -3785612815528032758
+    second: CarBodyMesh.009|Example Sheet_031Action
+  - first:
+      74: -9059520364098680203
+    second: CarBodyMesh.009|Example Sheet_037Action
+  - first:
+      74: -426737218151286667
+    second: CarBodyMesh.009|Example Sheet_039Action
+  - first:
+      74: 2280662771120701052
+    second: CarBodyMesh.009|Example Sheet_045Action.001
+  - first:
+      74: -3610757620001770330
+    second: CarBodyMesh.009|Example Sheet_047Action
+  - first:
+      74: 8957636783486212776
+    second: CarBodyMesh.009|Example Sheet_047Action.001
+  - first:
+      74: 1336601443721590375
+    second: CarBodyMesh.009|Example Sheet_047Action.002
+  - first:
+      74: -7798822918969864367
+    second: CarBodyMesh.009|Example Sheet_047Action.003
+  - first:
+      74: -8511909271423732006
+    second: CarBodyMesh.009|Example Sheet_047Action.005
+  - first:
+      74: -2129649884364199580
+    second: CarBodyMesh.009|Example Sheet_047Action.006
+  - first:
+      74: -2183477926729374303
+    second: CarBodyMesh.009|Example Sheet_047Action.007
+  - first:
+      74: 1995057093715056676
+    second: CarBodyMesh.009|Example Sheet_047Action.008
+  - first:
+      74: -3962708879294239767
+    second: CarBodyMesh.009|Example Sheet_047Action.009
+  - first:
+      74: 826926355963186155
+    second: CarBodyMesh.009|Example Sheet_047Action.010
+  - first:
+      74: -7333204208515585722
+    second: CarBodyMesh.009|Example Sheet_049Action
+  - first:
+      74: -7869520331865968733
+    second: CarBodyMesh.009|Example Sheet_052.001Action
+  - first:
+      74: -6339194265071105046
+    second: CarBodyMesh.009|Example Sheet_052Action
+  - first:
+      74: 4943520246036517836
+    second: CarBodyMesh.009|Example Sheet_059Action
+  - first:
+      74: -7765866391108769260
+    second: CarBodyMesh.009|Examples_006Action
+  - first:
+      74: -2713678930060291376
+    second: CarBodyMesh.009|Examples_006Action.001
+  - first:
+      74: -6232669091114179723
+    second: CarBodyMesh.010|Example Sheet_001Action
+  - first:
+      74: 2505861681929453660
+    second: CarBodyMesh.010|Example Sheet_002.001Action
+  - first:
+      74: 6025392196612778907
+    second: CarBodyMesh.010|Example Sheet_002Action
+  - first:
+      74: 6012309944503787340
+    second: CarBodyMesh.010|Example Sheet_008Action
+  - first:
+      74: 4492305184194432358
+    second: CarBodyMesh.010|Example Sheet_009Action
+  - first:
+      74: -4483957789114333148
+    second: CarBodyMesh.010|Example Sheet_013Action
+  - first:
+      74: -8618240961228423905
+    second: CarBodyMesh.010|Example Sheet_027Action
+  - first:
+      74: -8935509195426063266
+    second: CarBodyMesh.010|Example Sheet_028Action
+  - first:
+      74: 3988936349196514163
+    second: CarBodyMesh.010|Example Sheet_028Action.001
+  - first:
+      74: -6535085797699075412
+    second: CarBodyMesh.010|Example Sheet_028Action.002
+  - first:
+      74: 2283969506269140836
+    second: CarBodyMesh.010|Example Sheet_031Action
+  - first:
+      74: 2318351339043468385
+    second: CarBodyMesh.010|Example Sheet_037Action
+  - first:
+      74: 6958260542777644222
+    second: CarBodyMesh.010|Example Sheet_039Action
+  - first:
+      74: 5263278173096874952
+    second: CarBodyMesh.010|Example Sheet_045Action.001
+  - first:
+      74: -8625114602622000191
+    second: CarBodyMesh.010|Example Sheet_047Action
+  - first:
+      74: -4442886443615178650
+    second: CarBodyMesh.010|Example Sheet_047Action.001
+  - first:
+      74: 997134501931447417
+    second: CarBodyMesh.010|Example Sheet_047Action.002
+  - first:
+      74: 2987324299861088178
+    second: CarBodyMesh.010|Example Sheet_047Action.003
+  - first:
+      74: 8174092298734829045
+    second: CarBodyMesh.010|Example Sheet_047Action.005
+  - first:
+      74: -659971702840308431
+    second: CarBodyMesh.010|Example Sheet_047Action.006
+  - first:
+      74: 3704013326141446068
+    second: CarBodyMesh.010|Example Sheet_047Action.007
+  - first:
+      74: 5951936761906221932
+    second: CarBodyMesh.010|Example Sheet_047Action.008
+  - first:
+      74: -3680390039017481144
+    second: CarBodyMesh.010|Example Sheet_047Action.009
+  - first:
+      74: -5306840832718867943
+    second: CarBodyMesh.010|Example Sheet_047Action.010
+  - first:
+      74: -1958983528070521715
+    second: CarBodyMesh.010|Example Sheet_049Action
+  - first:
+      74: -6512072709786720503
+    second: CarBodyMesh.010|Example Sheet_052.001Action
+  - first:
+      74: 3305018030977208904
+    second: CarBodyMesh.010|Example Sheet_052Action
+  - first:
+      74: -1423048152380658646
+    second: CarBodyMesh.010|Example Sheet_059Action
+  - first:
+      74: 8808830382986916459
+    second: CarBodyMesh.010|Examples_006Action
+  - first:
+      74: 30902704846826531
+    second: CarBodyMesh.010|Examples_006Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

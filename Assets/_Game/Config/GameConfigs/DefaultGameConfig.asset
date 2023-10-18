@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df64122e2c66fe142aa4150a3debc51a, type: 3}
+  m_Name: DefaultGameConfig
+  m_EditorClassIdentifier: 
+  _carConfig: {fileID: 11400000, guid: 4ee4ad4756957d749b6c021e091674a3, type: 2}
+  _staminaConfig: {fileID: 11400000, guid: 81ea827c82eaf964b88577ee6fa4d679, type: 2}
+  _ballConfig: {fileID: 11400000, guid: 3d5c4a8eafb934b489d1e3d69263bd5c, type: 2}
